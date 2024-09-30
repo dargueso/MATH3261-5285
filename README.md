@@ -45,3 +45,5 @@ conda install jupyterlab
 ```
 
 or Microsoft's [vs-code](https://code.visualstudio.com/) with the [jupyter extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter).
+
+**Note:** when running the notebooks in [Jupyterlab](https://doc.cocalc.com/howto/jupyter-kernel-selection.html) or [vs-code](https://code.visualstudio.com/docs/datascience/jupyter-kernel-management) make sure the MATH3261_5285 python notebook kernel is selected.
