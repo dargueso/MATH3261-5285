@@ -35,7 +35,7 @@ conda env create -f MATH3261_5285.yaml
 then `activate` the environment
 
 ```terminal
-conda activate MATH3261_5285
+conda activate MATH3261
 ```
 
 The notebooks can then be run using [JupyterLab](https://jupyter.org/), installed using `conda`
